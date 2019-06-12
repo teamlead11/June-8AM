@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/easymock-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-server-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-ooxml-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
